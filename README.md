@@ -1,7 +1,5 @@
 # Wiggle
 
-## Python tools for coding WAV formatted PCM streams into various web and app friendly formats.
-
 Wiggle is a library and toolkit that wraps well-known audio encoding libraries
 such as libopus and fdk-aac with the intent to provide an easy way to transform
 audio masters into formats easily consumed by modern browsers and apps.
