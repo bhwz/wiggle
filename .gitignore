@@ -1,0 +1,5 @@
+# Language
+__pycache__/
+
+# IDE/Editor
+.idea/
